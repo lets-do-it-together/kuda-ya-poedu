@@ -1,0 +1,11 @@
+.header__links-row {
+    display: inline;
+    padding-right: 23px;
+}
+
+@media (max-width: 370px) {
+    .header__links-row {
+        display: block;
+        padding-bottom: 15px;
+    }
+}
