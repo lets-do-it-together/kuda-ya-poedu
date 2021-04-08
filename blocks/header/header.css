@@ -1,0 +1,21 @@
+.header {
+    font-family: 'NotoSans', Arial, sans-serif;
+    line-height: 1.15;
+    font-size: 10px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 37px 0 64px;
+}
+
+@media (min-width: 1030px) {
+    .header {
+        font-size: 14px;
+    }
+}
+@media (max-width: 370px) {
+    .header {
+        align-items: baseline;
+    }
+}
