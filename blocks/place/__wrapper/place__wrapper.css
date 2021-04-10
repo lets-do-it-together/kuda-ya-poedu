@@ -7,8 +7,3 @@
     height: 500px;
   }
 }
-@media (max-width: 760px) {
-  .place__wrapper {
-    height: 300px;
-  }
-}

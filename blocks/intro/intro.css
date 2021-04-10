@@ -8,8 +8,8 @@
 
 @media screen and (max-width: 630px) {
   .intro {
+    width: 90%;
     flex-direction: column;
-    margin: 0;
     padding: 63px 0;
   }
 }

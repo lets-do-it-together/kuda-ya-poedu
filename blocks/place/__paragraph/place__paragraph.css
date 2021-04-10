@@ -8,3 +8,10 @@
 .place__paragraph:last-child {
   padding-bottom: 65px;
 }
+
+
+@media (min-width: 1030px) {
+  .place__paragraph {
+    font-size: 18px;
+  }
+}

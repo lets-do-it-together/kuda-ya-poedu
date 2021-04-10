@@ -3,9 +3,9 @@
   padding-right: 23px;
 }
 
-@media (max-width: 370px) {
+@media (max-width: 440px) {
   .header__links-row {
     display: block;
-    padding-bottom: 15px;
+    padding-bottom: 8px;
   }
 }
