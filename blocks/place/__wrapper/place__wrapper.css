@@ -1,14 +1,14 @@
 .place__wrapper {
-    height: 427px;
+  height: 427px;
 }
 
 @media (min-width: 1030px) {
-    .place__wrapper {
-        height: 500px;
-    }
+  .place__wrapper {
+    height: 500px;
+  }
 }
 @media (max-width: 760px) {
-    .place__wrapper {
-        height: 300px;
-    }
+  .place__wrapper {
+    height: 300px;
+  }
 }

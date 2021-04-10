@@ -1,27 +1,27 @@
 .place__text {
-    font-family: 'NotoSans', Arial, sans-serif;
-    color: black;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 300px;
-    padding-left: 53px;
+  font-family: 'NotoSans', Arial, sans-serif;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 300px;
+  padding-left: 53px;
 }
 
 @media (min-width: 1030px) {
-    .place__text {
-        width: 380px;
-    }
+  .place__text {
+    width: 380px;
+  }
 }
 @media (max-width: 760px) {
-    .place__text {
-        width: 250px;
-    }
+  .place__text {
+    width: 250px;
+  }
 }
 @media (max-width: 630px) {
-    .place__text {
-        padding-left: 0;
-        width: 90%;
-        margin: 0 auto;
-    }
+  .place__text {
+    padding-left: 0;
+    width: 90%;
+    margin: 0 auto;
+  }
 }

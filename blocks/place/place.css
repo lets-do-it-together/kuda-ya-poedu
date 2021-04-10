@@ -1,16 +1,16 @@
 .place {
-    display: grid;
-    grid-template-columns: 50% 50%;
+  display: grid;
+  grid-template-columns: 50% 50%;
 }
 
 
 @media (max-width: 630px) {
-    .place {
-        display: flex;
-        flex-direction: column;
-        margin: 0 auto;
-    }
-    .place:nth-child(even) {
-        flex-direction: column-reverse;
-    }
+  .place {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .place:nth-child(even) {
+    flex-direction: column-reverse;
+  }
 }
