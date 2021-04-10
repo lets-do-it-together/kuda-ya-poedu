@@ -1,6 +1,6 @@
 .text__paragraph-content {
   line-height: 1.15;
-  font-size: 14px;
+  font-size: 11px;
   font-weight: normal;
   margin: 10px 0 0;
 }
@@ -9,6 +9,6 @@
 
 @media screen and (min-width: 1030px){
   .text__paragraph-content {
-    font-size: 18px;
+    font-size: 15px;
   }
 }
