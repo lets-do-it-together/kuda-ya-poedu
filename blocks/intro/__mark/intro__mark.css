@@ -1,0 +1,14 @@
+.intro__mark {
+  margin: 87px auto 18px 51px;
+  padding: 0;
+  color: #fecda7;
+  font-size: 9px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 630px) {
+  .intro__mark {
+    margin: 0 15px 18px;
+  }
+}

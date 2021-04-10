@@ -1,0 +1,15 @@
+.intro {
+  font-family: 'NotoSans', Arial, sans-serif;
+  max-width: 1024px;
+  padding: 63px 0 106px;
+  margin: 0 auto;
+  display: flex;
+}
+
+@media screen and (max-width: 630px) {
+  .intro {
+    flex-direction: column;
+    margin: 0;
+    padding: 63px 0;
+  }
+}

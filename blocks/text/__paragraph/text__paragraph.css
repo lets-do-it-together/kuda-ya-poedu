@@ -1,0 +1,9 @@
+.text__paragraph {
+  max-width: 189px;
+}
+
+@media screen and (max-width: 890px){
+  .text__paragraph {
+    max-width: 100%;
+  }
+}

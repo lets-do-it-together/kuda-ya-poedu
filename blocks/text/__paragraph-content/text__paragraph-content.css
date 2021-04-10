@@ -1,0 +1,10 @@
+.text__paragraph-content {
+  margin: 10px 0 0;
+  font-size: 11px;
+}
+
+@media screen and (max-width: 890px){
+  .text__paragraph-content {
+    font-size: 15px;
+  }
+}

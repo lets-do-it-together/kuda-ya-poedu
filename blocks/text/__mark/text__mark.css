@@ -1,0 +1,13 @@
+.text__mark {
+  margin: 0 0 24px 53px;
+  color: #fecda7;
+  font-size: 9px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 650px){
+  .text__mark {
+    margin: 0 0 24px 30px;
+  }
+}

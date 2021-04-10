@@ -1,0 +1,10 @@
+.text__title {
+  margin: 0 0 0 53px;
+  max-width: 328px;
+}
+
+@media screen and (max-width: 650px){
+  .text__title {
+    margin: 0 30px;
+  }
+}

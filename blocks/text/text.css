@@ -1,0 +1,12 @@
+.text {
+  font-family: 'NotoSans', Arial, sans-serif;
+  max-width: 1024px;
+  padding: 118px 0 107px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 650px){
+  .text {
+    padding: 65px 0;
+  }
+}
